@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060747014910",
+    "firebase_url": "https://prolimoinnovaworld2020.firebaseio.com",
+    "project_id": "prolimoinnovaworld2020",
+    "storage_bucket": "prolimoinnovaworld2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060747014910:android:70a3a35f7c307a3d8eabaf",
+        "android_client_info": {
+          "package_name": "com.example.prolimo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060747014910-0u2i4mem3litu2gieogoqmjj0p5a3a2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASCFXBrDdjlzcZqhVuMpHiUTpTlukfPUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060747014910-0u2i4mem3litu2gieogoqmjj0p5a3a2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
